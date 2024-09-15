@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your GitHub repository:
 
----
 
 # Real-Time Facial Emotion Detection System
 
@@ -25,27 +23,6 @@ The CNN model was trained on the face expression recognition dataset, with sever
 - **Dropout Layers**: To reduce overfitting.
 - **Dense Layers**: For final emotion classification.
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/emotion-detection.git
-   cd emotion-detection
-   ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Download the pre-trained model files:
-   - [facialemotionmodel.json](model download link)
-   - [facialemotionmodel.h5](weights download link)
-
-4. Run the real-time emotion detection script:
-   ```bash
-   python realtimedetection.py
-   ```
 
 ## Usage
 
@@ -66,10 +43,3 @@ The CNN model was trained on the face expression recognition dataset, with sever
 - Add support for multiple faces in the same frame.
 - Explore transfer learning with more advanced pre-trained models.
 
-## Demo
-
-[Insert link to the video showing the GUI and live prediction]
-
----
-
-This should provide a comprehensive overview of your project.
